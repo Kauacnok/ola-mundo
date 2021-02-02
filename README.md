@@ -1,8 +1,10 @@
 # Olá mundo
  Primeiro repositório versionado :)
- 
- Alteração no Read.me
-<<<<<<< HEAD
->>>>>>> fff610c784799546e499dbd47356f74468622842
-=======
->>>>>>> fff610c784799546e499dbd47356f74468622842
+*** 
+Estou aprendendo a mexer no **Git** e no **GitHub** através do canal **Curso em vídeo**, você pode acessar a playlist desse curso abaixo:
+
+Playlist: [Curso de Git e Github do canal Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
+
+Metas:
+- [X] Primeiro repositório criado
+- [ ] Curso concluido
